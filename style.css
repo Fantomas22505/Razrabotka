@@ -1,0 +1,20 @@
+img { margin-left: 50px; margin-top: 50px}
+aside {float: left}
+.s1 {background-color: aquamarine}
+.s2 {background-color: brown}
+.p-3 {margin-top: 200px; height: 200px}
+button { height: 100px; width: 300px;}
+.btn-primary{color: #6995c2; background-color: aqua}
+h1 {margin: 50px}
+
+
+
+
+
+
+.col {text-align: center}
+#carouselExampleControls {background-color: brown; margin: 100px; width: 1700px;height: 300px;}
+.carousel-control-prev-icon {margin-top: 150px}
+footer { background-color: #6995c2; margin-bottom: 0px; text-align: center}
+h1, h3 {text-align: center}
+.container-head {margin-top: 10px; background-color: aqua}

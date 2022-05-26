@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "120301-19_mmv",
+    "password": "123456",
+    "database": "120301-19_mmv",
+    "host": "84.201.184.150",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "120301-19_mmv",
+    "password": "123456",
+    "database": "120301-19_mmv",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "120301-19_mmv",
+    "password": "123456",
+    "database": "120301-19_mmv",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
